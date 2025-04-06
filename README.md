@@ -52,10 +52,4 @@ A local garage that specializes in vehicle repairs needs to organize its custome
 - `create_tables.sql`: SQL script to create all database tables
 - `README.md`: Project overview and documentation
 
----
-## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hallkenesha18/garage-erd.git
-   cd garage-er
