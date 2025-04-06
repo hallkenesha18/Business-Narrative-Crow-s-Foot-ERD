@@ -53,7 +53,6 @@ A local garage that specializes in vehicle repairs needs to organize its custome
 - `README.md`: Project overview and documentation
 
 ---
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
